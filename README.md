@@ -10,3 +10,4 @@ Learning how to use git
 
 1. Create a folder and name it anything.
 2. Create an html file in your new folder.
+3. Create a css file and link it to your html file.
